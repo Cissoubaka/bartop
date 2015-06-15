@@ -13,3 +13,4 @@ Des que le modèle numérique 3D sera fini, je réaliserai des plans 2D cotés a
 Quelques rendu de ce que cela pourrait donner :
 ![alt tag](https://github.com/Cissoubaka/bartop/blob/master/rendering/bartop-CP.JPG)
 ![alt tag](https://github.com/Cissoubaka/bartop/blob/master/rendering/bartop1.JPG)
+![alt tag](https://github.com/Cissoubaka/bartop/blob/master/rendering/bartop.png)
